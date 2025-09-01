@@ -1,0 +1,146 @@
+.header-bg {
+    /* ff 3.6+ */
+    background: -moz-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* opera 11.10+ */
+    background: -o-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#459F58', endColorstr='#2A9391', GradientType=0);
+
+    /* ie 10+ */
+    background: -ms-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* global 94%+ browsers support */
+    background: linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    position: relative;
+
+}
+
+/* .offcanvas {
+    width: 20% !important;
+} */
+
+.offcanvas-header {
+    background-color: rgba(42, 147, 97, 1);
+}
+
+.offcanvas-body {
+    /* ff 3.6+ */
+    background: -moz-linear-gradient(180deg, rgba(42, 147, 97, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-linear-gradient(180deg, rgba(42, 147, 97, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* opera 11.10+ */
+    background: -o-linear-gradient(180deg, rgba(42, 147, 97, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#459F58', endColorstr='#2A9361', GradientType=1);
+
+    /* ie 10+ */
+    background: -ms-linear-gradient(180deg, rgba(42, 147, 97, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* global 94%+ browsers support */
+    background: linear-gradient(180deg, rgba(42, 147, 97, 1) 0%, rgba(69, 159, 88, 1) 100%);
+}
+
+
+.navbar-form button {
+    position: relative;
+    right: 20px;
+
+}
+
+.navbar-form .form-control{
+    border: 1px solid black;
+}
+
+.div-user{
+    cursor: pointer;
+}
+
+.header-brand {
+ position: absolute;
+ margin-left: 70px;
+}
+
+.column-cart{
+    /* border: 1px solid black; */
+    margin-right: 20px;
+    margin-left: -35px;
+}
+
+.badge{
+    position: absolute;
+    right: -30%;
+    bottom: 65%;
+}
+
+.offcanvas{
+    width: 250px !important;
+}
+
+.offcanvas-link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: start;
+}
+
+.offcanvas-link:hover{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: start;
+}
+
+.separator{
+    border: 1px solid white;
+    width: 100%;
+    font: bold;
+}
+
+.zeldas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 60%;
+    
+}
+
+.icon-resize{
+    width: 100% !important;
+}
+
+.txtWhite{
+    color: white !important;
+}
+.logo{
+    min-height: 40px !important;
+    min-width: 40px !important;
+}
+
+/* .div-img{
+    position: absolute;
+    bottom: 7px;
+    right: 15px;
+} */
+
+/* .nav-item-text {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.dropdown-text {
+    color: white;
+    font-size: large;
+    text-align: center;
+    white-space: nowrap;
+} */

@@ -1,0 +1,36 @@
+.col-main {
+
+    /* border-right: 1px solid black;
+    border-right: 1px solid black; */
+    margin-top: 150px;
+    height: max-content;
+    /* border-right: '1px solid black', 
+    border-bottom: '1px solid black',
+     height: 'max-content' */
+}
+.col-filtros{
+    margin-top: 40px;
+    /* border-right: 1px solid black;
+    border-bottom: 1px solid black;  */
+    height: max-content
+}
+
+.div-filtro {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border-top: 1px solid rgb(145, 144, 144);
+}
+
+.cmb-filtro{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.cmb-filtro-label{
+    display: flex;
+    margin: 1rem;
+}

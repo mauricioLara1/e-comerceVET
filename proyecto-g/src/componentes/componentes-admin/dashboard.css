@@ -1,0 +1,18 @@
+.columna-navegacion{
+    /* border: 1px solid black; */
+    background: rgba(69, 159, 88, 1);
+    height: 1600px;
+    margin: 0;
+}
+.columna-contenido{
+    /* border: 1px solid black; */
+    height: 100vh;
+}
+.logo-contenido{
+    display: block;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.logo-contenido-escondido{
+    display: none;
+}

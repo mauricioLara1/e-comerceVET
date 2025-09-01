@@ -1,0 +1,32 @@
+.card{ 
+    margin: 10px;
+}
+
+.card-cont{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+    padding: 20px;
+    border: 0px solid red;
+}
+
+.card-body{
+    /* border-top: 1px solid rgba(4, 2, 5, 0.493);
+    border-right: 1px solid rgba(4, 2, 5, 0.493);
+    border-left: 1px solid rgba(4, 2, 5, 0.493);
+    border-bottom: 1px solid rgba(4, 2, 5, 0.493); */
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+}
+
+.card-title{
+    font-size: 15px;
+}
+
+.card-text{
+    border: 0px solid yellow;
+    /* margin-top: 20px; */
+    font-size: 15px;
+    font-weight: bold;
+    
+}

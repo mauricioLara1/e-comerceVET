@@ -1,0 +1,61 @@
+.button {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1rem;
+    /* margin-top: 0.5rem; */
+}
+
+.modal-header {
+    display: flex;
+    /* flex-flow: column; */
+    flex-direction: column;
+
+
+}
+
+.modal-header-div {
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+}
+.modal-dialog-centered{
+    margin-top: -40px !important;
+    
+}
+
+.modal-body-div {
+    display: flex;
+    /* flex-flow: column; */
+    flex-direction: column;
+    text-align: left;
+
+
+}
+
+.modal-body-div-buttom{
+    margin-top: 10px;
+}
+
+.modal-footer-yo{
+    
+    justify-content: center !important;
+}
+.iniciarSesion{
+    margin: 8% 5% 0% 5%;
+    width: 95%;
+}
+.registrarse{
+
+    width: 95%;
+}
+.cerrarsesion{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.verperfil{
+    margin-top: 5%;
+}
+.usuario{
+    margin-top: 10%;
+}

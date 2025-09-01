@@ -1,0 +1,32 @@
+.div-resumen-show {
+    display: block;
+    position: sticky;
+    top: 160px;
+}
+
+.div-resumen-hide {
+    display: none;
+}
+
+.carro-vacio{
+    height: 400px;
+}
+
+.boton-regreso-compras a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #0d6efd;
+    border-radius: 7px;
+    height: 40px;
+    color: #0d6efd;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: start;
+}
+
+.boton-regreso-compras a:hover{
+    color: white;
+    background-color: #0d6efd;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}

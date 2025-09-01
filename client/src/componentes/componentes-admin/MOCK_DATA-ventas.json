@@ -1,0 +1,142 @@
+[
+    {
+        "codigo_venta": 1,
+        "fecha_compra": "14/09/2023",
+        "metodo_compra": "jcb",
+        "detalle_compra": [
+            {
+                "nombre_producto": "Nombre 1",
+                "codigo_producto": "codigo_producto-1",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 2",
+                "codigo_producto": "codigo_producto-2",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 3",
+                "codigo_producto": "codigo_producto-3",
+                "cantidad": 1,
+                "precio": 100
+            }
+        ],
+        "total_compra": 300,
+        "usuario": {
+            "direccion": "calle 1 # 2-3",
+            "barrio": "Barrio random",
+            "nuip": 1234567890,
+            "nombre": "Roger Andrey Vaca Arboleda",
+            "correo": "example@hotmail.com",
+            "telefono": 1234567
+        }
+    },
+    {
+        "codigo_venta": 2,
+        "fecha_compra": "02/07/2023",
+        "metodo_compra": "jcb",
+        "detalle_compra": [
+            {
+                "nombre_producto": "Nombre 4",
+                "codigo_producto": "codigo_producto-4",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 5",
+                "codigo_producto": "codigo_producto-5",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 6",
+                "codigo_producto": "codigo_producto-6",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 7",
+                "codigo_producto": "codigo_producto-7",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 8",
+                "codigo_producto": "codigo_producto-8",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 9",
+                "codigo_producto": "codigo_producto-9",
+                "cantidad": 1,
+                "precio": 100
+            }
+        ]
+    },
+    {
+        "codigo_venta": 3,
+        "fecha_compra": "13/07/2023",
+        "metodo_compra": "jcb",
+        "detalle_compra": [
+            {
+                "nombre_producto": "Nombre 10",
+                "codigo_producto": "codigo_producto-10",
+                "cantidad": 1,
+                "precio": 100
+            }
+        ]
+    },
+    {
+        "codigo_venta": 4,
+        "fecha_compra": "01/04/2024",
+        "metodo_compra": "china-unionpay",
+        "detalle_compra": [
+            {
+                "nombre_producto": "Nombre 11",
+                "codigo_producto": "codigo_producto-11",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 12",
+                "codigo_producto": "codigo_producto-12",
+                "cantidad": 1,
+                "precio": 100
+            }
+        ]
+    },
+    {
+        "codigo_venta": 5,
+        "fecha_compra": "15/01/2024",
+        "metodo_compra": "jcb",
+        "detalle_compra": [
+            {
+                "nombre_producto": "Nombre 13",
+                "codigo_producto": "codigo_producto-13",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 14",
+                "codigo_producto": "codigo_producto-14",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 15",
+                "codigo_producto": "codigo_producto-15",
+                "cantidad": 1,
+                "precio": 100
+            },
+            {
+                "nombre_producto": "Nombre 16",
+                "codigo_producto": "codigo_producto-16",
+                "cantidad": 1,
+                "precio": 100
+            }
+        ]
+    }
+]

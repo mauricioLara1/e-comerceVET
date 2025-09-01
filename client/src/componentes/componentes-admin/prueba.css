@@ -1,0 +1,64 @@
+/* producto.css */
+.principalTitulo {
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.inventario-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .centrar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .customButton{
+    margin-right: 10px;
+  }
+  .inventario-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .inventario-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    width: 200px;
+    background-color: #fff;
+  }
+  
+  .product-card h2 {
+    margin-top: 0;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .preview {
+    margin-top: 10px;
+    text-align: center;
+  }
+  

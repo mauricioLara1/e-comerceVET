@@ -1,0 +1,93 @@
+.div-accesos {
+
+    /* margin-left: 385px;
+
+    border-radius: 20px;
+
+    padding-left: 20px; */
+
+    /* display:flex; */
+
+    justify-content: center;
+
+}
+
+.div-imagenUsuario {
+    justify-content: center;
+    display: flex;
+}
+
+.div-editarUsuario {
+    margin-top: 100px;
+}
+
+
+.div-correo {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.correoUsuario {
+
+
+    /* padding-left: 300px;    
+
+    padding-right: 300px; */
+
+    margin-bottom: 40px;
+
+
+}
+
+.div-ubicacion {
+    margin-bottom: 60px;
+}
+
+
+.nav-justified .nav-item,
+.nav-justified>.nav-link {
+    background-color: white;
+}
+
+/* .nav-link {} */
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+
+    /* ff 3.6+ */
+    background: -moz-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* opera 11.10+ */
+    background: -o-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#459F58', endColorstr='#2A9391', GradientType=0);
+
+    /* ie 10+ */
+    background: -ms-linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1) 100%);
+
+    /* global 94%+ browsers support */
+    background: linear-gradient(90deg, rgba(42, 147, 145, 1) 0%, rgba(69, 159, 88, 1)100%);
+
+    color: white;
+
+}
+
+.canvas-sliding {
+    -webkit-transition: top 0s, left 0s, bottom 0s, right 0s;
+    transition: top 0s, left 0s, bottom 0s, right 0s;
+}
+
+.div-imagenMascota {
+    justify-content: center;
+    display: flex;
+}
+
+.div-editarMascota {
+    margin-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}

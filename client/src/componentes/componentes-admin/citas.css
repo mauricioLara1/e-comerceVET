@@ -1,0 +1,42 @@
+.separator{
+    border-top: 5px solid black ;
+}
+.columna-contenido{
+    min-width: 85%;
+    padding: 15px 5%;
+}
+.tituloAdmin {
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid #000; 
+    display: inline-block; 
+    padding-bottom: 10px;
+    margin: 20px auto;
+  }
+  /* citas.css */
+.selected-row {
+    background-color: gray !important;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px; /* Espacio entre los botones */
+  }
+  .buttonContainer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .customButton {
+    flex: 1 1 50%;
+    max-width: 25%;
+    box-sizing: border-box; /* Para incluir el padding y border en el ancho total */
+  }
+  .finalizar{
+    max-height: 40px ;
+    padding: 5px;
+  }
+  
+  

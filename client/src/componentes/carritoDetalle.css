@@ -1,0 +1,37 @@
+.cantidad-input {
+    width: 60px;
+    text-align: center;
+}
+
+.detalle{
+    max-width: 1000px;
+    max-height:  400px;
+}
+
+.productoDetalleVenta{
+    margin-left: 10%;
+    max-width: 80% !important;
+    max-height: 80% !important;
+}
+.agregarQuitar{
+    margin: 1%;
+}
+
+.bordenegro {
+    border-color: black !important;
+}
+
+.cantidad {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    min-width: 60px;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+.fotoProducto{
+    min-height: 100px;
+    min-width: 100px;
+}
